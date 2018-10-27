@@ -1,3 +1,3 @@
 # Project1BloodSugar
 # Jon Caldwell
-# Used Cplusplus.com, geeksforgeeks.org and stackoverflow.com
+# Got some help from Cplusplus.com, geeksforgeeks.org and stackoverflow.com
