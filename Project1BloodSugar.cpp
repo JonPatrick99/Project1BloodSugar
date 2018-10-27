@@ -110,8 +110,5 @@ int main()
 		}
 	}
 
-	cout << "\n Please enter in your Blood Surgar readings for today:\n";
-	cin >> input;
-
 	system("pause");
 }
